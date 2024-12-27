@@ -1,0 +1,7 @@
+{
+    "markdown-pdf.mathEngine": "MathJax",
+    "markdown-pdf.pdfEngine": "xelatex",
+    "markdown-pdf.style": "styles/custom.css",
+    "markdown-pdf.outputDir": "./output"
+  }
+  
